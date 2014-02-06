@@ -1,5 +1,5 @@
-<?php
-header('Content-Type: text/html; charset=utf-8');
+﻿<?php
+header('Content-Type: text/html; charset=utf-8111111');
 session_start();
 include '/model/connect.php';
 $request = $_GET['controller'];
