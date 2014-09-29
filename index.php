@@ -12,3 +12,5 @@ if (!empty($array[0])){
 	else
 	echo "Главная страница";
 ?>
+
+strapon
